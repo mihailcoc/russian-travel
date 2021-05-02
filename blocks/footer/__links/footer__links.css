@@ -1,0 +1,6 @@
+.footer__links{
+    height: 18px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+}

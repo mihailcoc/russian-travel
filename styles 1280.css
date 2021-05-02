@@ -1,0 +1,337 @@
+    .section{
+        box-sizing: border-box;
+    }
+    .section__narrow{
+        width:100%;
+        max-width: calc(100% - 100px * 2);
+    }
+
+    .lead__image_Group4{
+        position: absolute;
+        width: 937.09px;
+        height: 262.99px;
+        left: 171.27px;
+        top: 594.21px;
+    }
+    .lead__image1{
+        position: absolute;
+        width: 984px;
+        height: 615px;
+        left: 148px;
+        top: 504px;
+    }
+    .ellipse-stroke1{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 1073px;
+        top: 752.83px;
+        background: #FFFFFF;
+    }
+    .ellipse1{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 1073px;
+        top: 752.83px;
+        background: #181A19;
+    }
+    .ellipse-stroke2{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 1009.96px;
+        top: 720.71px;
+        background: #FFFFFF;
+    }
+    .ellipse2{  
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 1009.96px;
+        top: 720.71px;
+        background: #3E403A;
+    }
+    .ellipse-stroke3{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 875.03px;
+        top: 775.66px;
+        background: #FFFFFF;
+    }
+    .ellipse3{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 875.03px;
+        top: 775.66px;
+        background: #577379;
+    }
+    .ellipse-stroke4{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 769.37px;
+        top: 790.93px;
+        background: #FFFFFF;
+    }
+    .ellipse4{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 769.37px;
+        top: 790.93px;
+        background: #414847;
+    }
+    .ellipse-stroke5{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 712.61px;
+        top: 745.14px;
+        background: #FFFFFF;
+    }
+    .ellipse5{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 712.61px;
+        top: 745.14px;
+        background: #8CBABB;
+    }
+    .ellipse-stroke6{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 679.43px;
+        top: 805.17px;
+        background: #FFFFFF;
+    }
+    .ellipse6{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 679.43px;
+        top: 805.17px;
+        background: #789186;
+    }
+    .ellipse-stroke7{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 577.26px;
+        top: 777.7px;
+        background: #FFFFFF;
+    }
+    .ellipse7{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 577.26px;
+        top: 777.7px;
+        background: #738F8C;
+    }
+    .ellipse-stroke8{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 499.54px;
+        top: 738.01px;
+        background: #FFFFFF;
+    }
+    .ellipse8{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 499.54px;
+        top: 738.01px;
+        background: #93A47C;
+    }
+    .ellipse-stroke9{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 411.35px;
+        top: 797.03px;
+        background: #FFFFFF;
+    }
+    .ellipse9{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 411.35px;
+        top: 797.03px;
+        background: #47443E;
+    }
+    .ellipse-stroke10{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 379.04px;
+        top: 771.59px;
+        background: #FFFFFF;
+    }
+    .ellipse10{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 379.04px;
+        top: 771.59px;
+        background: #4D5648;
+    }
+    .ellipse-stroke11{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 185px;
+        top: 723.7px;
+        background: #FFFFFF;
+    }
+    .ellipse11{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 185px;
+        top: 723.7px;
+        background: #131313;
+    }
+    .ellipse-stroke12{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 270.76px;
+        top: 629.12px;
+        background: #FFFFFF;
+    }
+    .ellipse12{
+        position: absolute;
+        width: 6.99px;
+        height: 8.14px;
+        left: 270.76px;
+        top: 629.12px;
+        background: #272722;
+    }
+    .ulan-ude{
+        position: absolute;
+        width: 62.54px;
+        height: 10.64px;
+        left: 1045.82px;
+        top: 773.38px;
+        background: #FFFFFF;
+    }
+    .krasnoyarsk{
+        position: absolute;
+        width: 80.86px;
+        height: 8.71px;
+        left: 972.07px;
+        top: 706.95px;
+        background: #FFFFFF;
+    }
+    .omsk{
+        position: absolute;
+        width: 34.6px;
+        height: 8.71px;
+        left: 861.9px;
+        top: 799.01px;
+        background: #FFFFFF;
+    }
+    .tumen{
+        position: absolute;
+        width: 52.33px;
+        height: 8.71px;
+        left: 769.44px;
+        top: 773.38px;
+        background: #FFFFFF;
+    }
+    .perm{
+        position: absolute;
+        width: 40.14px;
+        height: 8.48px;
+        left: 696.96px;
+        top: 729.82px;
+        background: #FFFFFF;
+    }
+    .glazov{
+        position: absolute;
+        width: 46.83px;
+        height: 8.71px;
+        left: 694.8px;
+        top: 804.84px;
+        background: #FFFFFF;
+    }
+    .kotelnich-1{
+        position: absolute;
+        width: 84.41px;
+        height: 8.71px;
+        left: 563.31px;
+        top: 759.39px;
+        background: #FFFFFF;
+    }
+    .manturovo{
+        position: absolute;
+        width: 75.44px;
+        height: 8.71px;
+        left: 510.8px;
+        top: 726.76px;
+        background: #FFFFFF;
+    }
+    .yaroslavl{
+        position: absolute;
+        width: 73.61px;
+        height: 8.71px;
+        left: 427.26px;
+        top: 796.68px;
+        background: #FFFFFF;
+    }
+    .tver{
+        position: absolute;
+        width: 37.11px;
+        height: 8.48px;
+        left: 334.48px;
+        top: 771.16px;
+        background: #FFFFFF;
+    }
+    .pskov{
+        position: absolute;
+        width: 39.97px;
+        height: 8.71px;
+        left: 171.27px;
+        top: 739.58px;
+        background: #FFFFFF;
+    }
+    .great_novgorod{
+        position: absolute;
+        width: 65.82px;
+        height: 26.66px;
+        left: 240.54px;
+        top: 594.21px;
+        background: #FFFFFF;
+    }
+    .vector28stroke{
+        position: absolute;
+        width: 224.59px;
+        height: 886px;
+        left: 1075.5px;
+        top: 632.61px;
+        background: #FFFFFF;
+        transform: rotate(90deg);
+    }
+
+  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

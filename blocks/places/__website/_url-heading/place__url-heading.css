@@ -1,0 +1,92 @@
+
+@media screen and (max-width: 2000px){
+    .place__website_url-heading{
+        width: 456px;
+        height: 12px;
+        margin-left: 0px;
+        margin-right:0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        line-height: 170%;
+        letter-spacing: 0.2em;
+        color: #AAAAAA;
+    }
+}
+@media screen and (max-width: 1280px){
+    .place__website_url-heading{
+        width: 456px;
+        height: 12px;
+        margin-left: 0px;
+        margin-right:0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        line-height: 170%;
+        letter-spacing: 0.2em;
+        color: #AAAAAA;
+    }
+}
+@media screen and (max-width: 1024px){
+    .place__website_url-heading{
+        width: 456px;
+        height: 12px;
+        margin-left: 0px;
+        margin-right:0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        line-height: 170%;
+        letter-spacing: 0.2em;
+        color: #AAAAAA;
+    }
+}
+@media screen and (max-width: 768px){
+    .place__website_url-heading{
+        width: 352px;
+        height: 12px;
+        margin-left: 0px;
+        margin-right:0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+        line-height: 83%;
+        letter-spacing: 0.2em;
+        color: #AAAAAA;
+    }
+}
+@media screen and (max-width: 320px){
+    .place__website_url-heading{
+        width:288px;
+        height: 12px;
+        margin-left: 0px;
+        margin-right:0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+        line-height: 83%;
+        letter-spacing: 0.2em;
+        color: #AAAAAA;
+    }
+    
+}

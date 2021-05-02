@@ -1,0 +1,105 @@
+
+@media screen and (max-width: 2000px){
+    .intro__list{
+        width: calc(100% - 590px);
+        min-width: 690px;
+        height: 90px;
+        font-family: Inter;
+        font-style: mixed;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 18px;
+        line-height: 124%;
+        align-self:left;
+        vertical-align:top;
+        color: #FFFFFF;
+        margin-top: 33px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        background-color: #2A2C2F;
+    }
+}
+
+@media screen and (max-width: 1280px){
+    .intro__list{
+        width: calc(100% - 590px);
+
+        height: 90px;
+        font-family: Inter;
+        font-style: mixed;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 18px;
+        line-height: 124%;
+        align-self:left;
+        vertical-align:top;
+        color: #FFFFFF;
+        margin-top: 33px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        background-color: #2A2C2F;
+    }
+}
+@media screen and (max-width: 1024px){
+    .intro__list{
+        width: calc(100% - 48px - 286px);
+
+        height: 90px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+        line-height: 124%;
+        align-self:left;
+        vertical-align:top;
+        color: #FFFFFF;
+        margin-top: 33px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        background-color: #2A2C2F;
+    }
+}
+@media screen and (max-width: 768px){
+    .intro__list{
+        width: calc(100% - 2*24px);
+
+        height: 90px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+        line-height: 124%;
+        align-self:left;
+        vertical-align:top;
+        color: #FFFFFF;
+        margin-top: 33px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        background-color: #2A2C2F;
+    }
+}
+@media screen and (max-width: 320px){
+    .intro__list{
+        width: calc(100% - 2*16px);
+ 
+        height: 90px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+        line-height: 124%;
+        align-self:left;
+        vertical-align:top;
+        color: #FFFFFF;
+        margin-top: 34px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        background-color: #2A2C2F;
+    }
+}
