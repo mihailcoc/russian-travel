@@ -33,11 +33,8 @@
 
 **Примечания**
 
-В блоке photo-grid в строке 12 оставил свойство    min-height: 671px;, потому что без этого свойства не показывается row-gap на разрешении 1280.
-В блоке intro оставил свойство margin-left для 1024 потому что без него никак ! 
+**Ссылка на страничку github**
 
-**Ссылка на github**
-
-https://github.com/mihailcoc/russian-travel
+https://mihailcoc.github.io/russian-travel/
 
 Удачи!
