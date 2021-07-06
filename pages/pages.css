@@ -4,10 +4,10 @@
 @import url(../blocks/section/section.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__langlinks/header__langlinks.css);
-@import url(../blocks/header/header__langlink_first/header__langlink_first.css);
-@import url(../blocks/header/header__langlink_second/header__langlink_second.css);
-@import url(../blocks/header/__langlink_active/header__langlink_active.css);
+@import url(../blocks/header/__langlink/header__langlink.css);
+@import url(../blocks/header/__langlink/_first/header__langlink_first.css);
+@import url(../blocks/header/__langlink/_second/header__langlink_second.css);
+@import url(../blocks/header/__langlink/_active/header__langlink_active.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);

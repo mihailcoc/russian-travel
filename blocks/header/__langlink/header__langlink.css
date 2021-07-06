@@ -1,4 +1,4 @@
-.header__langlinks {
+.header__langlink {
   margin-top: auto;
   margin-bottom:auto;
   display: flex;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .header__langlinks {
+  .header__langlink {
     min-height: 20px;
   }
 }
