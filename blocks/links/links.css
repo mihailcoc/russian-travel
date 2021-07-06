@@ -1,0 +1,8 @@
+.links {
+  color: #f2f2f2;
+  transition: background-color 1s linear 2s;
+}
+
+.links:hover {
+  color: wheat;
+}

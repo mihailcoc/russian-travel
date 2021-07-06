@@ -1,0 +1,28 @@
+.place__paragraph {
+  display: flex;
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 26px;
+  margin-bottom: 0px;
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29.34px;
+  color: #FFFFFF;
+  text-transform: inherit;
+}
+
+.place__paragraph:nth-child(1) {
+  margin-top: 0px;
+}
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+    margin-top: 25px;
+    font-size: 16px;
+    line-height: 26.08px;
+  }
+}
+

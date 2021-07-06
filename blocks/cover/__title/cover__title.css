@@ -1,86 +1,25 @@
+.cover__title {
+  min-width: 288px;
+  max-width: 70%;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  text-align: center;
+  color: #FFFFFF;
+  align-self: center;
+}
 
-@media screen and (max-width: 1900px){
-    .cover__title{
-        max-width: 560px;
-        max-height: 152px;
-        margin-top:245px;
-        margin-bottom:0px;
-        margin-left: auto;
-        margin-right: auto;
-        font-family: Inter;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 72px;
-        line-height: 76px;
-        text-align: center;
-        color: #FFFFFF;
-    }
+@media screen and (max-width: 660px) {
+  .cover__title {
+    max-width: 60%;
+    font-size: 32px;
+    line-height: 35px;
+  }
 }
-@media screen and (max-width: 1280px){
-    .cover__title{
-        max-width: 560px;
-        max-height: 152px;
-        margin-top:245px;
-        margin-bottom: 0px;
-        margin-left: 312px;
-        margin-right: 312px;
-        font-family: Inter;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 72px;
-        line-height: 76px;
-        text-align: center;
-        color: #FFFFFF;
-    }
-}
-@media screen and (max-width: 1024px){
-    .cover__title{
-        max-width: 560px;
-        max-height: 152px;
-        margin-top: 195px;
-        margin-bottom: 0px;
-        margin-left: 232px;
-        margin-right: 232px;
-        font-family: Inter;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 72px;
-        line-height: 76px;
-        text-align: center;
-        color: #FFFFFF;
-    }
-}
-@media screen and (max-width: 768px){
-    .cover__title{
-        max-width: 560px;
-        max-height: 152px;
-        margin-top: 115px;
-        margin-bottom: 0px;
-        margin-left: 104px;
-        margin-right: 104px;
-        font-family: Inter;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 72px;
-        line-height: 76px;
-        text-align: center;
-        color: #FFFFFF;
-    }
-}
-@media screen and (max-width: 320px){
-    .cover__title{
-        max-width: 288px;
-        max-height: 70px;
-        margin-top: 33px;
-        margin-bottom: 0px;
-        margin-left: 16px;
-        margin-right: 16px;
-        font-family: Inter;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 32px;
-        line-height: 35px;
-        text-align: center;
-        color: #FFFFFF;
-    }
-}
+
+
