@@ -1,6 +1,7 @@
 .cover__title {
   min-width: 288px;
   max-width: 70%;
+  margin-top: 0px;
   margin-bottom: 0px;
   margin-left: auto;
   margin-right: auto;
