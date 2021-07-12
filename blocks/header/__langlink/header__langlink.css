@@ -10,6 +10,7 @@
   line-height: 28px;
   text-align: right;
   color: #FFFFFF;
+  text-decoration-line: none;
 }
 
 @media screen and (max-width: 320px) {
