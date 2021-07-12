@@ -3,27 +3,38 @@
   display: flex;
   flex-direction: column;
   background-image: url(../../../images/access_roads_to_the_train_station.png);
-  background-size: 100% 100%;
+  background-size: cover;
   text-decoration: none;
   z-index: 1;
   min-height: 740px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .cover__overlay {
+    min-width: 1024px;
     min-height: 640px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .cover__overlay {
+    min-width: 768px;
     min-height: 480px;
+
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__overlay {
+
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__overlay {
+    min-width: 320px;
     min-height: 200px;
+    border: 1px solid red;
   }
 }
 

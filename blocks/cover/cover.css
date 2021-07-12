@@ -1,5 +1,4 @@
 .cover {
-  height: 100%;
   min-height: 740px;
   width: calc(100% - 2*48px);
   margin-top: 92px;
@@ -11,27 +10,35 @@
   box-sizing:border-box;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .cover {
     width: 100%;
+    min-width: 1024px;
     min-height: 640px;
     margin-top: 92px;
-    margin-left: 0px;
-    margin-right: 0px;
-
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .cover {
+    min-width: 768px;
     min-height: 480px;
+
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover {
+
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover {
+    min-width: 320px;
     min-height: 200px;
     margin-top: 90px;
+    border: 1px solid red;
   }
 }
 
