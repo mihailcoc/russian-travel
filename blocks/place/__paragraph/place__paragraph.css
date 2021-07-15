@@ -12,6 +12,7 @@
   line-height: 163%;
   color: #FFFFFF;
   text-transform: inherit;
+  box-sizing: border-box;
 }
 
 .place__paragraph:nth-child(1) {
@@ -31,7 +32,7 @@
 
 @media screen and (max-width: 800px) {
   .place__paragraph {
-    font-size: 15.4px;
-    line-height: 25px;
+    font-size: 16px;
+    line-height: 26px;
   }
 }

@@ -8,6 +8,7 @@
   column-gap: 40px;
   row-gap: 48px;
   margin-top: 80px;
+  box-sizing: border-box;
 }
 
 .place:nth-child(1) {

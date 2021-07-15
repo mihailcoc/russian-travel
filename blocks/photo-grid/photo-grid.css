@@ -8,6 +8,8 @@
   grid-template-rows: repeat(3, 229px);
   justify-content: center;
   width: calc(100% - 2*48px);
+  height: 100%;
+  border: 1px solid red;
 }
 
 @media all and (max-width: 1280px) {
@@ -37,6 +39,15 @@
   .photo-grid {
     grid-template-columns: repeat(2, 368px);
     grid-template-rows: repeat(6, 280px);
+    border: 1px solid blue;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 368px);
+    grid-template-rows: repeat(6, 280px);
+    border: 1px solid blueviolet;
   }
 }
 

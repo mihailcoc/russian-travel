@@ -5,6 +5,7 @@
   margin-right: 0px;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
@@ -15,7 +16,7 @@
 
 @media screen and (max-width: 1000px) {
   .place__container {
-    margin-left: 28px;
+    margin-left: 24px;
   }
 }
 
@@ -24,7 +25,6 @@
     max-width: 100%;
     margin-top: 32px;
     margin-left: 0px;
-    margin-bottom: 0px;
   }
 }
 
@@ -33,6 +33,5 @@
     max-width: calc(100% - 2*16px);
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 0px;
   }
 }
