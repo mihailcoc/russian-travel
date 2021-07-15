@@ -14,16 +14,16 @@
 @media screen and (max-width: 1024px) {
   .place__image {
     max-height: 440px;
-    min-height: 288px;
+    min-height: 340px;
     max-width: 440px;
-    min-width: 288px;
+    min-width: 340px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place__image {
-    min-width: 288px;
-    min-height: 288px;
+    min-width: 340px;
+    min-height: 340px;
     width: 340px;
     height: 340px;
   }

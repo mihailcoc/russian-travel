@@ -27,8 +27,11 @@
   .place__title {
     font-size: 42px;
     line-height: 46px;
-    max-width: 340px;
-    width: 93%;
+    width: 100%;
+  }
+  .place__title:nth-child(1) {
+    font-size: 44px;
+    line-height: 46px;
   }
 }
 
@@ -39,13 +42,20 @@
     min-width: 200px;
     max-width: 767px;
   }
+  .place__title:nth-child(1) {
+    font-size: 52px;
+    line-height: 56px;
+  }
 }
 
 @media screen and (max-width: 500px) {
   .place__title {
     font-size: 37px;
     line-height: 42px;
-    min-width: 200px;
+  }
+  .place__title:nth-child(1) {
+    font-size: 37px;
+    line-height: 42px;
   }
 }
 
@@ -53,14 +63,17 @@
   .place__title {
     font-size: 32px;
     line-height: 35px;
-    min-width: 200px;
+  }
+  .place__title:nth-child(1) {
+    font-size: 32px;
+    line-height: 35px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place__title {
-    margin-left: 16px;
-    margin-right:16px;
+    margin-left: auto;
+    margin-right: auto;
     width: calc(100% - 2*16px);
   }
 }
