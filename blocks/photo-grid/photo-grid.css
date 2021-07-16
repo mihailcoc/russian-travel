@@ -38,7 +38,6 @@
   .photo-grid {
     grid-template-columns: repeat(2, 368px);
     grid-template-rows: repeat(6, 280px);
-    height: 1664px;
   }
 }
 

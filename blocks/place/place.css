@@ -3,7 +3,7 @@
   margin-right: auto;
   margin-bottom: 0px;
   display:grid;
-  grid-template-rows:  minmax(124px, 124px) minmax(345px, 1fr);
+  grid-template-rows:  minmax(76px, 76px) minmax(345px, 1fr);
   grid-template-columns: minmax(460px, 460px) minmax(484px, 524px);
   column-gap: 40px;
   row-gap: 48px;
@@ -13,10 +13,10 @@
 
 .place:nth-child(1) {
   margin-top: 0px;
-  grid-template-rows:  minmax(124px, 200px) minmax(345px, 1fr);
+  grid-template-rows:  minmax(76px, 152px) minmax(345px, 1fr);
 }
 .place:nth-child(4) {
-  grid-template-rows:  minmax(124px, 200px) minmax(345px, 1fr);
+  grid-template-rows:  minmax(76px, 152px) minmax(345px, 1fr);
 }
 
 @media screen and (max-width: 1280px) {

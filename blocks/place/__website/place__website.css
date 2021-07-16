@@ -4,20 +4,12 @@
   justify-content: flex-end;
   margin-top: 0px;
   margin-left: 0px;
-  margin-bottom: 48px;
-}
-
-@media screen and (max-width: 1000px) {
-  .place__website {
-    justify-content: flex-end;
-    margin-bottom: 0px;
-  }
+  margin-bottom: 0px;
 }
 
 @media screen and (max-width: 767px) {
   .place__website {
     margin-top: 32px;
-    margin-bottom: 0px;
     justify-content: flex-start;
   }
 }
