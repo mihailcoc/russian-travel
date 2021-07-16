@@ -43,16 +43,16 @@
 @media screen and (max-width: 1000px) {
   .place {
     margin-top: 73px;
-    grid-template-rows:  minmax(94px, 94px) minmax(337px, 1fr);
+    grid-template-rows:  minmax(46px, 46px) minmax(337px, 1fr);
     grid-template-columns: minmax(340px, 440px) minmax(352px, 456px);
     column-gap: 28px;
   }
   .place:nth-child(1) {
     margin-top: 0px;
-    grid-template-rows:  minmax(94px, 140px) minmax(337px, 1fr);
+    grid-template-rows:  minmax(46px, 94px) minmax(337px, 1fr);
   }
   .place:nth-child(4) {
-    grid-template-rows:  minmax(94px, 94px) minmax(337px, 1fr);
+    grid-template-rows:  minmax(46px, 46px) minmax(337px, 1fr);
   }
 }
 
